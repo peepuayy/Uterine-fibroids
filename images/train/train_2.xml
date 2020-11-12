@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_2.jpg</filename>
+	<path>C:\Users\pee_p\Downloads\BSP\train\train_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>322</width>
+		<height>202</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Uterine fibroids</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>156</ymin>
+			<xmax>211</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
