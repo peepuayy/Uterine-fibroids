@@ -1,0 +1,9 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+train_1.jpg,757,639,Uterine fibroids,303,148,619,443
+train_2.jpg,322,202,Uterine fibroids,170,156,211,193
+train_3.jpg,397,483,Uterine fibroids,115,200,283,427
+train_4.jpg,1024,840,Uterine fibroids,316,213,460,331
+train_5.jpg,1060,1200,Uterine fibroids,525,802,785,953
+train_6.jpg,1024,857,Uterine fibroids,463,401,667,638
+train_7.jpg,401,318,Uterine fibroids,150,143,247,231
+train_8.jpg,204,248,Uterine fibroids,83,167,138,206
